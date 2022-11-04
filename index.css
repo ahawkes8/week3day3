@@ -1,0 +1,30 @@
+h2{color: white;}
+
+* {padding: 0; margin: 0;}
+  
+body {font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; color:white;
+background-color: black;}
+
+nav {display: flex; justify-content: space-between; padding: 1rem 2rem;}
+  
+nav ul {display: flex; list-style: none;}
+  
+nav li {padding-left: 1rem;}
+
+p{font-size: 80px;}
+
+h3{font-size: 40px;}
+
+.bread{height: 100px; width: 100px;}
+
+.title1{padding-left: 45%; padding-top: 5%; font-size: 30px;}
+
+.paragraph1{padding-left: 45%; font-size: 20px;}
+
+.title2{padding-right: 45%; padding-top: 5%; font-size: 30px; padding-left: 5%;}
+
+.paragraph2{padding-right: 45%; font-size: 20px; padding-left: 5%;}
+
+.title3{padding-left: 45%; padding-top: 5%; font-size: 30px;}
+
+.paragraph3{padding-left: 45%; font-size: 20px;}
